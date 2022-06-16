@@ -1,0 +1,64 @@
+KTE_TEACHER@DESKTOP-QN29E6U MINGW64 /e/public/w
+$ pwd
+/e/public/workspace/git
+
+KTE_TEACHER@DESKTOP-QN29E6U MINGW64 /e/public/workspace/git
+$ dir
+
+KTE_TEACHER@DESKTOP-QN29E6U MINGW64 /e/public/workspace/git
+$
+
+KTE_TEACHER@DESKTOP-QN29E6U MINGW64 /e/public/workspace/git
+$ ls
+
+KTE_TEACHER@DESKTOP-QN29E6U MINGW64 /e/public/workspace/git
+$ ls
+test.txt
+
+KTE_TEACHER@DESKTOP-QN29E6U MINGW64 /e/public/workspace/git
+$ ls -l -a
+total 1
+drwxr-xr-x 1 KTE_TEACHER 197121 0 Jun 16 09:41 ./
+drwxr-xr-x 1 KTE_TEACHER 197121 0 Jun 16 09:36 ../
+-rw-r--r-- 1 KTE_TEACHER 197121 5 Jun 16 09:41 test.txt
+
+KTE_TEACHER@DESKTOP-QN29E6U MINGW64 /e/public/workspace/git
+$ ls -l
+total 1
+-rw-r--r-- 1 KTE_TEACHER 197121 5 Jun 16 09:41 test.txt
+
+KTE_TEACHER@DESKTOP-QN29E6U MINGW64 /e/public/workspace/git
+$ ls -al
+total 1
+drwxr-xr-x 1 KTE_TEACHER 197121 0 Jun 16 09:41 ./
+drwxr-xr-x 1 KTE_TEACHER 197121 0 Jun 16 09:36 ../
+-rw-r--r-- 1 KTE_TEACHER 197121 5 Jun 16 09:41 test.txt
+
+KTE_TEACHER@DESKTOP-QN29E6U MINGW64 /e/public/workspace/git
+$ ll
+total 1
+-rw-r--r-- 1 KTE_TEACHER 197121 5 Jun 16 09:41 test.txt
+
+KTE_TEACHER@DESKTOP-QN29E6U MINGW64 /e/public/workspace/git
+$ ls -alS
+total 1
+-rw-r--r-- 1 KTE_TEACHER 197121 5 Jun 16 09:41 test.txt
+drwxr-xr-x 1 KTE_TEACHER 197121 0 Jun 16 09:41 ./
+drwxr-xr-x 1 KTE_TEACHER 197121 0 Jun 16 09:36 ../
+
+KTE_TEACHER@DESKTOP-QN29E6U MINGW64 /e/public/workspace/git
+$ ls -alh
+total 1.0K
+drwxr-xr-x 1 KTE_TEACHER 197121 0 Jun 16 09:41 ./
+drwxr-xr-x 1 KTE_TEACHER 197121 0 Jun 16 09:36 ../
+-rw-r--r-- 1 KTE_TEACHER 197121 5 Jun 16 09:41 test.txt
+
+KTE_TEACHER@DESKTOP-QN29E6U MINGW64 /e/public/workspace/git
+$ ls -alt
+total 1
+
+$ test.txt 파일 편집 저장
+$ test.txt 파일 편집 저장
+$ test.txt 파일 편집 저장
+$ test.txt 파일 편집 저장
+$ test.txt 파일 편집 저장
